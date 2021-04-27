@@ -1,0 +1,13 @@
+C:\Users\ghabi\OneDrive\Documents\Mis\221\repos\examprep\bin\Debug\netcoreapp3.1\examprep.exe
+C:\Users\ghabi\OneDrive\Documents\Mis\221\repos\examprep\bin\Debug\netcoreapp3.1\examprep.deps.json
+C:\Users\ghabi\OneDrive\Documents\Mis\221\repos\examprep\bin\Debug\netcoreapp3.1\examprep.runtimeconfig.json
+C:\Users\ghabi\OneDrive\Documents\Mis\221\repos\examprep\bin\Debug\netcoreapp3.1\examprep.runtimeconfig.dev.json
+C:\Users\ghabi\OneDrive\Documents\Mis\221\repos\examprep\bin\Debug\netcoreapp3.1\examprep.dll
+C:\Users\ghabi\OneDrive\Documents\Mis\221\repos\examprep\bin\Debug\netcoreapp3.1\examprep.pdb
+C:\Users\ghabi\OneDrive\Documents\Mis\221\repos\examprep\obj\Debug\netcoreapp3.1\examprep.csprojAssemblyReference.cache
+C:\Users\ghabi\OneDrive\Documents\Mis\221\repos\examprep\obj\Debug\netcoreapp3.1\examprep.AssemblyInfoInputs.cache
+C:\Users\ghabi\OneDrive\Documents\Mis\221\repos\examprep\obj\Debug\netcoreapp3.1\examprep.AssemblyInfo.cs
+C:\Users\ghabi\OneDrive\Documents\Mis\221\repos\examprep\obj\Debug\netcoreapp3.1\examprep.csproj.CoreCompileInputs.cache
+C:\Users\ghabi\OneDrive\Documents\Mis\221\repos\examprep\obj\Debug\netcoreapp3.1\examprep.dll
+C:\Users\ghabi\OneDrive\Documents\Mis\221\repos\examprep\obj\Debug\netcoreapp3.1\examprep.pdb
+C:\Users\ghabi\OneDrive\Documents\Mis\221\repos\examprep\obj\Debug\netcoreapp3.1\examprep.genruntimeconfig.cache
